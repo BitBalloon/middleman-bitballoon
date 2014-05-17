@@ -1,6 +1,6 @@
 # Middleman::Bitballoon
 
-Deploys a middleman built site to BitBalloon
+Deploys a [Middleman](http://middlemanapp.com/) built site to BitBalloon
 
 ## Installation
 
